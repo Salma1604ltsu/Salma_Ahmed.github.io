@@ -1,57 +1,27 @@
-# 🛡️ Salma Ahmed — Cybersecurity Portfolio
+# Salma Ahmed — Cybersecurity Portfolio
 
-Personal portfolio website for **Salma Ahmed**, focused on cybersecurity, VAPT, SOC operations, threat detection and penetration testing.
+Personal portfolio for **Salma Ahmed**, focused on VAPT, SOC operations, threat detection, penetration testing and security assessment.
 
-## 🌐 Live Portfolio
+## Live site
 
-**GitHub Pages:** https://salma1604ltsu.github.io/Salma_Ahmed.github.io/
+https://salma1604ltsu.github.io/Salma_Ahmed.github.io/
 
-## 🚀 Featured Work
+## Highlights
 
-- **WebGuard** — live web vulnerability scanner
-- Web Application Security Assessment
-- Reconnaissance & Exploitation
-- Monitoring & Incident Response
-- Network Interface Monitor
-- Educational Keylogger with GUI
+- Cyber Security Expert at Photon Softwares (Jul 2026 — Present)
+- VAPT across web and application environments
+- WebGuard live vulnerability scanner
+- Web application security assessment work
+- Monitoring and incident response projects
+- TryHackMe Top 1% globally with 350+ rooms
+- RiskLens GRC platform project
+- CRTOM, CAISR and ISO/IEC 27701:2025 Lead Auditor credentials
+- CompTIA Security+ and eJPT in progress
 
-## 🔐 Security Focus
+## Tech
 
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Web Application Security
-- Network Security
-- SOC Operations
-- Threat Detection & Analysis
-- Incident Handling
-- Security Assessment & Reporting
+HTML, CSS, responsive layout, GitHub Pages
 
-## 🧰 Tools
+## Repository
 
-`Burp Suite` `OWASP ZAP` `SQLMap` `Nikto` `Nmap` `Metasploit` `BloodHound` `Splunk` `TryHackMe` `Hack The Box`
-
-## 🎓 Credentials & Learning
-
-- Certified Red Team Operations Manager (CRTOM)
-- Certified AI Security Research (CAISR)
-- CompTIA Security+ — In Progress
-- eJPT — In Progress
-- TryHackMe — Top 1%, 350+ rooms
-- B.Tech Computer Science — Cybersecurity Specialization
-
-## 🧱 Tech Stack
-
-HTML · CSS · JavaScript · Python · Linux · Bash · Figma
-
-## 📁 Structure
-
-```text
-.
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
-## 📜 License
-
-This portfolio is personal work by Salma Ahmed. Please do not copy the design, content or branding without permission.
+https://github.com/Salma1604ltsu/Salma_Ahmed.github.io
